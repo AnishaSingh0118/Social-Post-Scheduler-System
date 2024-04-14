@@ -54,12 +54,18 @@ ABC revolutionizes social media management by offering a comprehensive solution 
 
 
 **How to Run the React Application**
+
+
 Now you are ready to run your first real React application!
 
 Run this command to move to the my-react-app directory:
 
 cd my-react-app
+
 Run this command to run the React application my-react-app:
 
 npm start
-A new browser window will pop up with your newly created React App! If not, open your browser and type localhost:3000 in the address bar.
+
+A new browser window will pop up with your newly created React App! If not, 
+
+open your browser and type localhost:3000 in the address bar.
