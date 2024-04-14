@@ -50,3 +50,16 @@ By strategically planning and scheduling posts, users can increase their visibil
 
 
 ABC revolutionizes social media management by offering a comprehensive solution for scheduling and automating posts across various platforms. With its user-friendly interface, advanced scheduling capabilities, and robust features, ABC empowers individuals and businesses to elevate their social media presence, save time, and drive meaningful engagement with their audience. Whether you're a social media enthusiast, content creator, or marketing professional, ABC is the ultimate tool for maximizing your online impact.
+
+
+
+**How to Run the React Application**
+Now you are ready to run your first real React application!
+
+Run this command to move to the my-react-app directory:
+
+cd my-react-app
+Run this command to run the React application my-react-app:
+
+npm start
+A new browser window will pop up with your newly created React App! If not, open your browser and type localhost:3000 in the address bar.
