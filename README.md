@@ -1,6 +1,6 @@
 # Welcome to SPSS!
-![Teams Build with Chat Engine](https://drive.google.com/file/d/12mSxMl1vqAVyUWMN0vlPr0YROum7vSZs/view?usp=sharing)
-Image here
+![Teams Build SPSS](https://drive.google.com/file/d/12mSxMl1vqAVyUWMN0vlPr0YROum7vSZs/view?usp=sharing)
+
 
 
 ## Introduction
