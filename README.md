@@ -1,7 +1,7 @@
 # Welcome to SPSS!
 ![Teams Build SPSS](public/ssps.jpg)
 
-![Teams Build SPSS](public/ssps 2.jpg)
+![Teams Build SPSS]([public/ssps 2.jpg](https://github.com/AnishaSingh0118/Social-Post-Scheduler-System/blob/6f1b73ec4f850fb762965f14cdec4db35afe3b36/public/ssps%202.jpg))
 
 
 ## Introduction
