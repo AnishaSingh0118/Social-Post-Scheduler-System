@@ -1,7 +1,7 @@
 # Welcome to SPSS!
 ![Teams Build SPSS](public/ssps.jpg)
 
-![Teams Build SPSS](public/ssps2.jpg)
+![Teams Build SPSS](public/ssps 2.jpg)
 
 
 ## Introduction
