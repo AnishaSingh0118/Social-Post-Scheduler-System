@@ -1,6 +1,7 @@
 # Welcome to SPSS!
 ![Teams Build SPSS](public/ssps.jpg)
 
+(public/ssps2.jpg)
 
 
 ## Introduction
