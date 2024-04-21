@@ -1,6 +1,6 @@
 # Welcome to SPSS!
-**Overview: **
-[Teams Build with SPSS]([https://i.ibb.co/vDhx8Md/Whats-App-Image-2021-01-26-at-02-01-43.jpg](https://drive.google.com/file/d/12mSxMl1vqAVyUWMN0vlPr0YROum7vSZs/view?usp=sharing))
+**Overview:**
+[Teams Build with SPSS] ([https://i.ibb.co/vDhx8Md/Whats-App-Image-2021-01-26-at-02-01-43.jpg](https://drive.google.com/file/d/12mSxMl1vqAVyUWMN0vlPr0YROum7vSZs/view?usp=sharing))
 
 
 
