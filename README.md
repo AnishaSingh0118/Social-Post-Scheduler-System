@@ -1,5 +1,5 @@
 # Welcome to SPSS!
-![Teams Build SPSS](https://drive.google.com/file/d/12mSxMl1vqAVyUWMN0vlPr0YROum7vSZs/view?usp=sharing)
+![Teams Build SPSS](public/ssps.jpg)
 
 
 
