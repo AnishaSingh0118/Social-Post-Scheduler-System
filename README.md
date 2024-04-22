@@ -10,7 +10,7 @@ Social Post Scheduler System is a sophisticated social post scheduler designed t
 
 Here is a Live View Demo ( www...........com )
 
-**Key Features:**
+# **Key Features:**
 
 **Intuitive User Interface:**
 
