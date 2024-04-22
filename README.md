@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Welcome to the Social Post Scheduler System (SPSS)! It's a tool to help you easily schedule your social media posts ahead of time.. Built using JavaScript (React.js), SPSS empowers users to effortlessly schedule posts across various social media platforms such as LinkedIn and Twitter. With SPSS, users can plan their content ahead of time, ensuring timely and consistent engagement with their audience.
+Welcome to the **Social Post Scheduler System (SPSS)!** It's a tool to help you easily schedule your social media posts ahead of time.. Built using JavaScript (React.js), SPSS empowers users to effortlessly schedule posts across various social media platforms such as LinkedIn and Twitter. With SPSS, users can plan their content ahead of time, ensuring timely and consistent engagement with their audience.
 
 Here is a Live View Demo ( www...........com )
 
